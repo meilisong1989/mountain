@@ -1,4 +1,4 @@
-project_name: jupiter
+project_name: jupiter 新增一行内容
 
 builds:
 - main: ./cmd/jupiter
