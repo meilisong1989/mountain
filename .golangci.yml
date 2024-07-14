@@ -53,6 +53,7 @@ linters:
     - dupl
 addContent:
     - table
+    - branch_rc_from_dev
 linters-settings:
   staticcheck:
     checks: ["all", "-SA1019", "-SA6002"]
